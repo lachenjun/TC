@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class MatchMaking {
 
-	@SuppressWarnings("rawtypes")
+    @SuppressWarnings("rawtypes")
 	public static class Person implements Comparable {
 		String Name;
 		String Answers;
