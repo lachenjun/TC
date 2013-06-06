@@ -1,4 +1,4 @@
-package SRM191.D2L1.V250;
+// SRM191.D2.V250;
 
 public class BettingMoney {
 

@@ -1,4 +1,4 @@
-package SRM155.D1L1.V300;
+// SRM155.D1.V300;
 
 public class PaternityTest {
     public static int[] possibleFathers(String child, String mother,

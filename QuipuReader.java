@@ -1,4 +1,4 @@
-package SRM155.D1L2.V450;
+// SRM155.D1.V450;
 
 public class QuipuReader {
     public static int[] readKnots(String[] knots) {
