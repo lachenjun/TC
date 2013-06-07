@@ -1,3 +1,4 @@
+//SRM203.D1.500
 public class TinSoldiers {
 
 	static long fact(int n) {
