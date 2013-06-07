@@ -1,4 +1,4 @@
-// SRM 580.D1.V1
+// SRM 580.D1.V250
 public class EelAndRabbit {
 
 	public static int getmax(int[] l, int[] t) {
